@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="1366px" height="768px" viewBox="-49 -48.314 1366 768"
+	 overflow="visible" enable-background="new -49 -48.314 1366 768" xml:space="preserve">
+<defs>
+</defs>
+<polygon fill="#E6E7E8" points="751.777,277.919 754.399,331.97 647.384,331.97 548.943,277.919 "/>
+<polygon fill="#E6E7E8" points="902.193,661.885 804.676,669.686 804.676,331.988 902.193,21.823 "/>
+<polygon fill="#E6E7E8" points="496,331.988 395.666,115.931 395.666,567.676 1,567.676 496,637.913 "/>
+<g opacity="0.2">
+	<rect x="698.741" y="331.988" fill="#00AEEF" width="105.935" height="337.697"/>
+	<g>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="804.676,667.686 804.676,669.686 
+			802.676,669.686 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3.9206,1.9603" x1="800.716" y1="669.686" x2="701.722" y2="669.686"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="700.741,669.686 698.741,669.686 
+			698.741,667.686 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4.0204,2.0102" x1="698.741" y1="665.676" x2="698.741" y2="334.993"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="698.741,333.988 698.741,331.988 
+			700.741,331.988 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3.9206,1.9603" x1="702.701" y1="331.988" x2="801.695" y2="331.988"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="802.676,331.988 804.676,331.988 
+			804.676,333.988 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4.0204,2.0102" x1="804.676" y1="335.998" x2="804.676" y2="666.681"/>
+	</g>
+</g>
+<g opacity="0.2">
+	<rect x="647.384" y="331.97" fill="#00A651" width="107.016" height="139.352"/>
+	<g>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="754.399,469.321 754.399,471.321 
+			752.399,471.321 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3.9621,1.9811" x1="750.418" y1="471.321" x2="650.374" y2="471.321"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="649.384,471.321 647.384,471.321 
+			647.384,469.321 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4.0403,2.0202" x1="647.384" y1="467.301" x2="647.384" y2="334.979"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="647.384,333.97 647.384,331.97 
+			649.384,331.97 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3.9621,1.9811" x1="651.365" y1="331.97" x2="751.409" y2="331.97"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="752.399,331.97 754.399,331.97 
+			754.399,333.97 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4.0403,2.0202" x1="754.399" y1="335.99" x2="754.399" y2="468.312"/>
+	</g>
+</g>
+<g opacity="0.2">
+	<polyline fill="#ED1C24" points="698.442,464.764 654.196,464.764 654.196,331.988 496,331.988 496,636.664 704.65,636.664 
+		704.65,464.562 	"/>
+	<g>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="698.442" y1="464.764" x2="696.442" y2="464.764"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4.2364,2.1182" x1="694.324" y1="464.764" x2="657.256" y2="464.764"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="656.196,464.764 654.196,464.764 
+			654.196,462.764 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4.0242,2.0121" x1="654.196" y1="460.752" x2="654.196" y2="334.994"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="654.196,333.988 654.196,331.988 
+			652.196,331.988 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4.0578,2.0289" x1="650.167" y1="331.988" x2="499.015" y2="331.988"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="498,331.988 496,331.988 496,333.988 		
+			"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3.9825,1.9912" x1="496" y1="335.979" x2="496" y2="633.668"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="496,634.664 496,636.664 498,636.664 		
+			"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3.9738,1.9869" x1="499.987" y1="636.664" x2="701.657" y2="636.664"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="702.65,636.664 704.65,636.664 
+			704.65,634.664 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3.9553,1.9777" x1="704.65" y1="632.687" x2="704.65" y2="467.552"/>
+		<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="704.65" y1="466.562" x2="704.65" y2="464.562"/>
+	</g>
+</g>
+<rect x="654.59" y="338.604" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="144.539" height="26.463"/>
+<rect x="673.818" y="345.196" fill="none" width="105.788" height="15.04"/>
+<text transform="matrix(1 0 0 1 674.3369 348.9883)"><tspan x="0" y="0" font-family="'Swiss721BT-Light'" font-size="5.2738">What cocktails can I make with {ingredient 1}, </tspan><tspan x="30.749" y="6.328" font-family="'Swiss721BT-Light'" font-size="5.2738">{ingredient 2}, etc.</tspan></text>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="701.742" y1="365.354" x2="701.742" y2="370.479"/>
+		<g>
+			<path d="M696.711,364.067c0-0.165,0.082-0.327,0.231-0.423c0.232-0.148,0.542-0.079,0.69,0.154l4.109,6.452l4.109-6.452
+				c0.148-0.233,0.458-0.303,0.69-0.154s0.3,0.46,0.153,0.691l-4.531,7.114c-0.092,0.144-0.251,0.231-0.422,0.231
+				s-0.33-0.088-0.422-0.231l-4.531-7.114C696.736,364.252,696.711,364.159,696.711,364.067
+				C696.711,363.902,696.711,364.159,696.711,364.067z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="676.38" y1="431.627" x2="676.38" y2="436.753"/>
+		<g>
+			<path d="M671.349,430.341c0-0.165,0.082-0.327,0.231-0.423c0.232-0.148,0.542-0.079,0.69,0.154l4.109,6.452l4.109-6.452
+				c0.148-0.233,0.458-0.303,0.69-0.154s0.3,0.46,0.153,0.691l-4.531,7.114c-0.092,0.144-0.251,0.231-0.422,0.231
+				s-0.33-0.088-0.422-0.231l-4.531-7.114C671.374,430.525,671.349,430.433,671.349,430.341
+				C671.349,430.176,671.349,430.433,671.349,430.341z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="676.549" y1="464.764" x2="676.549" y2="469.891"/>
+		<g>
+			<path d="M671.518,463.479c0-0.165,0.082-0.326,0.231-0.422c0.232-0.148,0.542-0.08,0.69,0.152l4.109,6.453l4.109-6.453
+				c0.148-0.232,0.458-0.301,0.69-0.152s0.3,0.459,0.153,0.689l-4.531,7.115c-0.092,0.145-0.251,0.231-0.422,0.231
+				s-0.33-0.087-0.422-0.231l-4.531-7.115C671.543,463.664,671.518,463.57,671.518,463.479
+				C671.518,463.313,671.518,463.57,671.518,463.479z"/>
+		</g>
+	</g>
+</g>
+<rect x="654.59" y="371.682" fill="#BCBEC0" stroke="#000000" stroke-miterlimit="10" width="94.306" height="59.945"/>
+<rect x="656.828" y="386.186" fill="none" width="89.558" height="30.938"/>
+<text transform="matrix(1 0 0 1 660.9873 389.9775)"><tspan x="0" y="0" font-family="'Swiss721BT-Light'" font-size="5.2738">You can make {drink name}, {drink </tspan><tspan x="-2.422" y="6.328" font-family="'Swiss721BT-Light'" font-size="5.2738">name}, etc. Say the name of the drink </tspan><tspan x="2.506" y="12.657" font-family="'Swiss721BT-Light'" font-size="5.2738">you’d like to make. Or I can share </tspan><tspan x="-2.783" y="18.985" font-family="'Swiss721BT-Light'" font-size="5.2738">additional ingredients that would allow </tspan><tspan x="5.895" y="25.314" font-family="'Swiss721BT-Light'" font-size="5.2738">you to make {alt drink names}</tspan></text>
+<rect x="654.655" y="437.955" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="43.787" height="26.809"/>
+<rect x="660.131" y="448.727" fill="none" width="32.836" height="6.323"/>
+<text transform="matrix(1 0 0 1 660.4561 452.5195)" font-family="'Swiss721BT-Light'" font-size="5.2738">{Drink Name}</text>
+<rect x="604.044" y="471.321" fill="#BCBEC0" stroke="#000000" stroke-miterlimit="10" width="93.844" height="25.859"/>
+<rect x="605.468" y="475.578" fill="none" width="91.373" height="18.104"/>
+<text transform="matrix(1 0 0 1 613.4824 479.3711)"><tspan x="0" y="0" font-family="'Swiss721BT-Light'" font-size="5.2738">A {drink name} is {ingredient 1}, </tspan><tspan x="-4.523" y="6.328" font-family="'Swiss721BT-Light'" font-size="5.2738">{ingredient 2}, {etc.}. Would you like </tspan><tspan x="19.118" y="12.656" font-family="'Swiss721BT-Light'" font-size="5.2738">the instructions?</tspan></text>
+<rect x="614.146" y="510.703" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="22.062" height="13.404"/>
+<rect x="615.376" y="514.799" fill="none" width="19.601" height="6.27"/>
+<text transform="matrix(1 0 0 1 621.8477 518.5908)" font-family="'Swiss721BT-Light'" font-size="5.2738">No</text>
+<rect x="665.35" y="510.703" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="22.062" height="13.404"/>
+<rect x="666.58" y="514.799" fill="none" width="19.601" height="6.27"/>
+<text transform="matrix(1 0 0 1 672.2109 518.5908)" font-family="'Swiss721BT-Light'" font-size="5.2738">Yes</text>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="676.381" y1="497.181" x2="676.381" y2="509.501"/>
+		<g>
+			<path d="M671.35,503.089c0-0.165,0.082-0.327,0.231-0.423c0.232-0.148,0.542-0.079,0.69,0.154l4.109,6.452l4.109-6.452
+				c0.148-0.233,0.458-0.303,0.69-0.154s0.3,0.46,0.153,0.691l-4.531,7.114c-0.092,0.144-0.251,0.231-0.422,0.231
+				s-0.33-0.088-0.422-0.231l-4.531-7.114C671.375,503.273,671.35,503.181,671.35,503.089
+				C671.35,502.924,671.35,503.181,671.35,503.089z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="676.381" y1="524.049" x2="676.381" y2="536.369"/>
+		<g>
+			<path d="M671.35,529.957c0-0.165,0.082-0.326,0.231-0.422c0.232-0.148,0.542-0.08,0.69,0.152l4.109,6.453l4.109-6.453
+				c0.148-0.232,0.458-0.301,0.69-0.152s0.3,0.459,0.153,0.689l-4.531,7.115c-0.092,0.145-0.251,0.231-0.422,0.231
+				s-0.33-0.087-0.422-0.231l-4.531-7.115C671.375,530.143,671.35,530.049,671.35,529.957
+				C671.35,529.792,671.35,530.049,671.35,529.957z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="624.958" y1="497.24" x2="624.958" y2="509.561"/>
+		<g>
+			<path d="M619.927,503.148c0-0.165,0.082-0.326,0.231-0.422c0.232-0.148,0.542-0.08,0.69,0.152l4.109,6.453l4.109-6.453
+				c0.148-0.232,0.458-0.301,0.69-0.152s0.3,0.459,0.153,0.689l-4.531,7.115c-0.092,0.145-0.251,0.231-0.422,0.231
+				s-0.33-0.087-0.422-0.231l-4.531-7.115C619.952,503.334,619.927,503.24,619.927,503.148
+				C619.927,502.983,619.927,503.24,619.927,503.148z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="676.636" y1="564.143" x2="676.636" y2="576.464"/>
+		<g>
+			<path d="M671.604,570.052c0-0.165,0.082-0.327,0.231-0.423c0.232-0.148,0.542-0.079,0.69,0.154l4.109,6.452l4.109-6.452
+				c0.148-0.233,0.458-0.303,0.69-0.154s0.3,0.46,0.153,0.691l-4.531,7.114c-0.092,0.144-0.251,0.231-0.422,0.231
+				s-0.33-0.088-0.422-0.231l-4.531-7.114C671.63,570.236,671.604,570.144,671.604,570.052
+				C671.604,569.887,671.604,570.144,671.604,570.052z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="676.636" y1="591.07" x2="676.636" y2="608.63"/>
+		<g>
+			<path d="M671.604,602.218c0-0.165,0.082-0.327,0.231-0.423c0.232-0.148,0.542-0.079,0.69,0.154l4.109,6.452l4.109-6.452
+				c0.148-0.233,0.458-0.303,0.69-0.154s0.3,0.46,0.153,0.691l-4.531,7.114c-0.092,0.144-0.251,0.231-0.422,0.231
+				s-0.33-0.088-0.422-0.231l-4.531-7.114C671.63,602.402,671.604,602.31,671.604,602.218
+				C671.604,602.053,671.604,602.31,671.604,602.218z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="625.212" y1="564.203" x2="625.212" y2="576.524"/>
+		<g>
+			<path d="M620.181,570.112c0-0.165,0.082-0.327,0.231-0.423c0.232-0.148,0.542-0.079,0.69,0.154l4.109,6.452l4.109-6.452
+				c0.148-0.233,0.458-0.303,0.69-0.154s0.3,0.46,0.153,0.691l-4.531,7.114c-0.092,0.144-0.251,0.231-0.422,0.231
+				s-0.33-0.088-0.422-0.231l-4.531-7.114C620.206,570.297,620.181,570.204,620.181,570.112
+				C620.181,569.947,620.181,570.204,620.181,570.112z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="625.212" y1="590.322" x2="625.212" y2="602.643"/>
+		<g>
+			<path d="M620.181,596.23c0-0.165,0.082-0.326,0.231-0.422c0.232-0.148,0.542-0.08,0.69,0.152l4.109,6.453l4.109-6.453
+				c0.148-0.232,0.458-0.301,0.69-0.152s0.3,0.459,0.153,0.689l-4.531,7.115c-0.092,0.145-0.251,0.231-0.422,0.231
+				s-0.33-0.087-0.422-0.231l-4.531-7.115C620.206,596.416,620.181,596.322,620.181,596.23
+				C620.181,596.065,620.181,596.322,620.181,596.23z"/>
+		</g>
+	</g>
+</g>
+<rect x="603.745" y="537.443" fill="#BCBEC0" stroke="#000000" stroke-miterlimit="10" width="94.576" height="26.699"/>
+<rect x="603.745" y="539.027" fill="none" width="93.168" height="25.176"/>
+<text transform="matrix(1 0 0 1 606.2051 542.8193)"><tspan x="0" y="0" font-family="'Swiss721BT-Light'" font-size="5.2738">The instructions for a {drink name} are </tspan><tspan x="26.472" y="6.328" font-family="'Swiss721BT-Light'" font-size="5.2738">{instuctions...}. </tspan><tspan x="4.931" y="12.657" font-family="'Swiss721BT-Light'" font-size="5.2738">You can also check the Alexa app.</tspan><tspan x="9.205" y="18.985" font-family="'Swiss721BT-Light'" font-size="5.2738">Would you like another recipe?</tspan></text>
+<rect x="603.745" y="603.845" fill="#BCBEC0" stroke="#000000" stroke-miterlimit="10" width="43.568" height="26.376"/>
+<rect x="603.745" y="611.852" fill="none" width="43.879" height="12.479"/>
+<text transform="matrix(1 0 0 1 604.8779 615.6436)"><tspan x="0" y="0" font-family="'Swiss721BT-Light'" font-size="5.2738">Which drink would </tspan><tspan x="1.048" y="6.328" font-family="'Swiss721BT-Light'" font-size="5.2738">you like to make?</tspan></text>
+<g>
+	<g>
+		<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="603.745,618.091 524.531,618.091 524.531,483.046 
+			602.543,483.046 		"/>
+		<g>
+			<path d="M596.131,488.077c-0.165,0-0.327-0.082-0.422-0.231c-0.148-0.232-0.08-0.542,0.153-0.69l6.453-4.109l-6.453-4.109
+				c-0.233-0.148-0.302-0.458-0.153-0.69s0.459-0.3,0.69-0.153l7.115,4.531c0.144,0.092,0.231,0.251,0.231,0.422
+				s-0.087,0.33-0.231,0.422l-7.115,4.531C596.316,488.052,596.223,488.077,596.131,488.077
+				C595.966,488.077,596.223,488.077,596.131,488.077z"/>
+		</g>
+	</g>
+</g>
+<rect x="502.84" y="537.443" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="43.945" height="26.503"/>
+<rect x="504.917" y="548.543" fill="none" width="39.524" height="7.904"/>
+<text transform="matrix(1 0 0 1 509.0215 552.335)" font-family="'Swiss721BT-Light'" font-size="5.2738">{Drink name}</text>
+<rect x="614.399" y="577.666" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="22.062" height="13.404"/>
+<rect x="615.631" y="581.762" fill="none" width="19.601" height="6.269"/>
+<text transform="matrix(1 0 0 1 621.2617 585.5547)" font-family="'Swiss721BT-Light'" font-size="5.2738">Yes</text>
+<rect x="665.604" y="577.666" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="22.062" height="13.404"/>
+<rect x="666.835" y="581.762" fill="none" width="19.601" height="6.269"/>
+<text transform="matrix(1 0 0 1 673.3066 585.5547)" font-family="'Swiss721BT-Light'" font-size="5.2738">No</text>
+<rect x="563.571" y="544.092" fill="#414042" stroke="#000000" stroke-miterlimit="10" width="22.062" height="13.403"/>
+<rect x="564.803" y="548.187" fill="none" width="19.601" height="6.269"/>
+<text transform="matrix(1 0 0 1 569.4321 551.9785)" fill="#FFFFFF" font-family="'Swiss721BT-Light'" font-size="5.2738">EXIT</text>
+<rect x="665.604" y="610.331" fill="#414042" stroke="#000000" stroke-miterlimit="10" width="22.062" height="13.403"/>
+<rect x="666.835" y="614.426" fill="none" width="19.601" height="6.27"/>
+<text transform="matrix(1 0 0 1 671.4648 618.2188)" fill="#FFFFFF" font-family="'Swiss721BT-Light'" font-size="5.2738">EXIT</text>
+<rect x="705.191" y="437.38" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="44.123" height="27.183"/>
+<rect x="705.103" y="449.521" fill="none" width="44.213" height="6.324"/>
+<text transform="matrix(1 0 0 1 707.4805 453.3125)" font-family="'Swiss721BT-Light'" font-size="5.2738">Other Ingredients</text>
+<rect x="704.738" y="470.891" fill="#BCBEC0" stroke="#000000" stroke-miterlimit="10" width="94.576" height="59.946"/>
+<rect x="707.139" y="477.955" fill="none" width="89.775" height="44.754"/>
+<text transform="matrix(1 0 0 1 711.4072 481.7471)"><tspan x="0" y="0" font-family="'Swiss721BT-Light'" font-size="5.2738">You can make {drink name}, {drink </tspan><tspan x="-1.737" y="6.328" font-family="'Swiss721BT-Light'" font-size="5.2738">name}, etc. if you buy {ingredient}. If </tspan><tspan x="-2.746" y="12.657" font-family="'Swiss721BT-Light'" font-size="5.2738">you buy {ingredient} and {ingredient} </tspan><tspan x="2.426" y="18.985" font-family="'Swiss721BT-Light'" font-size="5.2738">you can also make {drink name}, </tspan><tspan x="-0.429" y="25.314" font-family="'Swiss721BT-Light'" font-size="5.2738">{drink name}, etc. Would you like to </tspan><tspan x="-4.047" y="31.643" font-family="'Swiss721BT-Light'" font-size="5.2738">purchase additional ingredients via one </tspan><tspan x="22.647" y="37.971" font-family="'Swiss721BT-Light'" font-size="5.2738">of our partners?</tspan></text>
+<rect x="704.65" y="603.413" fill="#BCBEC0" stroke="#000000" stroke-miterlimit="10" width="44.212" height="26.688"/>
+<rect x="705.811" y="605.574" fill="none" width="41.833" height="22.974"/>
+<text transform="matrix(1 0 0 1 708.2549 609.3662)"><tspan x="0" y="0" font-family="'Swiss721BT-Light'" font-size="5.2738">Great! Authorize </tspan><tspan x="5.179" y="6.328" font-family="'Swiss721BT-Light'" font-size="5.2738">via the app. </tspan><tspan x="-2.296" y="12.657" font-family="'Swiss721BT-Light'" font-size="5.2738">Would you like the </tspan><tspan x="4.158" y="18.985" font-family="'Swiss721BT-Light'" font-size="5.2738">instructions?</tspan></text>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="727.209" y1="431.54" x2="727.209" y2="436.666"/>
+		<g>
+			<path d="M722.178,430.254c0-0.165,0.082-0.326,0.231-0.422c0.232-0.148,0.542-0.08,0.69,0.152l4.109,6.453l4.109-6.453
+				c0.148-0.232,0.458-0.301,0.69-0.152s0.3,0.459,0.153,0.689l-4.531,7.115c-0.092,0.145-0.251,0.231-0.422,0.231
+				s-0.33-0.087-0.422-0.231l-4.531-7.115C722.203,430.439,722.178,430.346,722.178,430.254
+				C722.178,430.089,722.178,430.346,722.178,430.254z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="727.209" y1="464.535" x2="727.209" y2="469.662"/>
+		<g>
+			<path d="M722.178,463.25c0-0.165,0.082-0.326,0.231-0.422c0.232-0.148,0.542-0.08,0.69,0.152l4.109,6.453l4.109-6.453
+				c0.148-0.232,0.458-0.301,0.69-0.152s0.3,0.459,0.153,0.689l-4.531,7.115c-0.092,0.145-0.251,0.231-0.422,0.231
+				s-0.33-0.087-0.422-0.231l-4.531-7.115C722.203,463.436,722.178,463.342,722.178,463.25
+				C722.178,463.085,722.178,463.342,722.178,463.25z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="777.629" y1="530.836" x2="777.629" y2="543.156"/>
+		<g>
+			<path d="M772.598,536.744c0-0.165,0.082-0.326,0.231-0.422c0.232-0.148,0.542-0.08,0.69,0.152l4.109,6.453l4.109-6.453
+				c0.148-0.232,0.458-0.301,0.69-0.152s0.3,0.459,0.153,0.689l-4.531,7.115c-0.092,0.145-0.251,0.231-0.422,0.231
+				s-0.33-0.087-0.422-0.231l-4.531-7.115C772.623,536.93,772.598,536.836,772.598,536.744
+				C772.598,536.579,772.598,536.836,772.598,536.744z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="726.205" y1="530.896" x2="726.205" y2="543.216"/>
+		<g>
+			<path d="M721.174,536.804c0-0.165,0.082-0.327,0.231-0.423c0.232-0.148,0.542-0.079,0.69,0.154l4.109,6.452l4.109-6.452
+				c0.148-0.233,0.458-0.303,0.69-0.154s0.3,0.46,0.153,0.691l-4.531,7.114c-0.092,0.144-0.251,0.231-0.422,0.231
+				s-0.33-0.088-0.422-0.231l-4.531-7.114C721.199,536.988,721.174,536.896,721.174,536.804
+				C721.174,536.639,721.174,536.896,721.174,536.804z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="726.205" y1="556.064" x2="726.205" y2="602.643"/>
+		<g>
+			<path d="M721.174,596.23c0-0.165,0.082-0.326,0.231-0.422c0.232-0.148,0.542-0.08,0.69,0.152l4.109,6.453l4.109-6.453
+				c0.148-0.232,0.458-0.301,0.69-0.152s0.3,0.459,0.153,0.689l-4.531,7.115c-0.092,0.145-0.251,0.231-0.422,0.231
+				s-0.33-0.087-0.422-0.231l-4.531-7.115C721.199,596.416,721.174,596.322,721.174,596.23
+				C721.174,596.065,721.174,596.322,721.174,596.23z"/>
+		</g>
+	</g>
+</g>
+<rect x="715.394" y="544.358" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="22.062" height="13.403"/>
+<rect x="716.624" y="548.453" fill="none" width="19.602" height="6.27"/>
+<text transform="matrix(1 0 0 1 722.2559 552.2451)" font-family="'Swiss721BT-Light'" font-size="5.2738">Yes</text>
+<rect x="766.598" y="544.358" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="22.062" height="13.403"/>
+<rect x="767.828" y="548.453" fill="none" width="19.602" height="6.27"/>
+<text transform="matrix(1 0 0 1 774.3008 552.2451)" font-family="'Swiss721BT-Light'" font-size="5.2738">No</text>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="777.254" y1="557.824" x2="777.254" y2="575.385"/>
+		<g>
+			<path d="M772.223,568.973c0-0.165,0.082-0.326,0.231-0.422c0.232-0.148,0.542-0.08,0.69,0.152l4.109,6.453l4.109-6.453
+				c0.148-0.232,0.458-0.301,0.69-0.152s0.3,0.459,0.153,0.689l-4.531,7.115c-0.092,0.145-0.251,0.231-0.422,0.231
+				s-0.33-0.087-0.422-0.231l-4.531-7.115C772.248,569.158,772.223,569.064,772.223,568.973
+				C772.223,568.808,772.223,569.064,772.223,568.973z"/>
+		</g>
+	</g>
+</g>
+<rect x="766.222" y="577.085" fill="#414042" stroke="#000000" stroke-miterlimit="10" width="22.062" height="13.404"/>
+<rect x="767.453" y="581.181" fill="none" width="19.601" height="6.269"/>
+<text transform="matrix(1 0 0 1 772.083 584.9727)" fill="#FFFFFF" font-family="'Swiss721BT-Light'" font-size="5.2738">EXIT</text>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="748.774" y1="617.457" x2="765.02" y2="617.457"/>
+		<g>
+			<path d="M758.607,622.488c-0.165,0-0.326-0.082-0.422-0.231c-0.148-0.232-0.08-0.542,0.152-0.69l6.453-4.109l-6.453-4.109
+				c-0.232-0.148-0.301-0.458-0.152-0.69s0.459-0.3,0.689-0.153l7.115,4.531c0.145,0.092,0.231,0.251,0.231,0.422
+				s-0.087,0.33-0.231,0.422l-7.115,4.531C758.793,622.463,758.699,622.488,758.607,622.488
+				C758.442,622.488,758.699,622.488,758.607,622.488z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="726.205" y1="630.16" x2="726.205" y2="642.481"/>
+		<g>
+			<path d="M721.174,636.069c0-0.165,0.082-0.327,0.231-0.423c0.232-0.148,0.542-0.079,0.69,0.154l4.109,6.452l4.109-6.452
+				c0.148-0.233,0.458-0.303,0.69-0.154s0.3,0.46,0.153,0.691l-4.531,7.114c-0.092,0.144-0.251,0.231-0.422,0.231
+				s-0.33-0.088-0.422-0.231l-4.531-7.114C721.199,636.254,721.174,636.161,721.174,636.069
+				C721.174,635.904,721.174,636.161,721.174,636.069z"/>
+		</g>
+	</g>
+</g>
+<rect x="715.394" y="643.623" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="22.062" height="13.404"/>
+<rect x="716.624" y="647.719" fill="none" width="19.602" height="6.27"/>
+<text transform="matrix(1 0 0 1 722.2559 651.5107)" font-family="'Swiss721BT-Light'" font-size="5.2738">Yes</text>
+<rect x="766.598" y="610.512" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="22.062" height="13.404"/>
+<rect x="767.828" y="614.607" fill="none" width="19.602" height="6.27"/>
+<text transform="matrix(1 0 0 1 774.3008 618.3994)" font-family="'Swiss721BT-Light'" font-size="5.2738">No</text>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="777.254" y1="623.979" x2="777.254" y2="641.538"/>
+		<g>
+			<path d="M772.223,635.126c0-0.165,0.082-0.327,0.231-0.423c0.232-0.148,0.542-0.079,0.69,0.154l4.109,6.452l4.109-6.452
+				c0.148-0.233,0.458-0.303,0.69-0.154s0.3,0.46,0.153,0.691l-4.531,7.114c-0.092,0.144-0.251,0.231-0.422,0.231
+				s-0.33-0.088-0.422-0.231l-4.531-7.114C772.248,635.311,772.223,635.218,772.223,635.126
+				C772.223,634.961,772.223,635.218,772.223,635.126z"/>
+		</g>
+	</g>
+</g>
+<rect x="766.222" y="643.239" fill="#414042" stroke="#000000" stroke-miterlimit="10" width="22.062" height="13.404"/>
+<rect x="767.453" y="647.335" fill="none" width="19.601" height="6.269"/>
+<text transform="matrix(1 0 0 1 772.083 651.127)" fill="#FFFFFF" font-family="'Swiss721BT-Light'" font-size="5.2738">EXIT</text>
+<g>
+	<g>
+		<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="614.146,517.405 575.354,517.405 575.354,542.152 		"/>
+		<g>
+			<path d="M570.322,535.74c0-0.165,0.082-0.326,0.231-0.422c0.232-0.148,0.542-0.08,0.69,0.152l4.109,6.453l4.109-6.453
+				c0.148-0.232,0.458-0.301,0.69-0.152s0.3,0.459,0.153,0.689l-4.531,7.115c-0.092,0.145-0.251,0.231-0.422,0.231
+				s-0.33-0.087-0.422-0.231l-4.531-7.115C570.348,535.926,570.322,535.832,570.322,535.74
+				C570.322,535.575,570.322,535.832,570.322,535.74z"/>
+		</g>
+	</g>
+</g>
+<rect x="502.604" y="338.316" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="145.123" height="26.809"/>
+<rect x="557.123" y="346.047" fill="none" width="36.464" height="12.402"/>
+<text transform="matrix(1 0 0 1 558.1836 349.8389)"><tspan x="0" y="0" font-family="'Swiss721BT-Light'" font-size="5.2738">How do I make </tspan><tspan x="0.523" y="6.328" font-family="'Swiss721BT-Light'" font-size="5.2738">{drink name}?</tspan></text>
+<g>
+	<g>
+		<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="574.603,365.066 574.603,450.971 624.958,450.971 
+			624.958,469.662 		"/>
+		<g>
+			<path d="M619.927,463.25c0-0.165,0.082-0.326,0.231-0.422c0.232-0.148,0.542-0.08,0.69,0.152l4.109,6.453l4.109-6.453
+				c0.148-0.232,0.458-0.301,0.69-0.152s0.3,0.459,0.153,0.689l-4.531,7.115c-0.092,0.145-0.251,0.231-0.422,0.231
+				s-0.33-0.087-0.422-0.231l-4.531-7.115C619.952,463.436,619.927,463.342,619.927,463.25
+				C619.927,463.085,619.927,463.342,619.927,463.25z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="704.738,616.757 701.269,616.757 701.269,551.614 
+			698.973,551.614 		"/>
+		<g>
+			<polygon points="703.505,549.488 703.859,550.425 699.248,552.168 701.323,556.641 700.415,557.062 697.888,551.613 			"/>
+		</g>
+	</g>
+</g>
+<g opacity="0.5">
+	<rect x="1" y="115.931" fill="#ED1C24" width="394.666" height="451.745"/>
+	<g>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="395.666,565.676 395.666,567.676 
+			393.666,567.676 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3.9864,1.9932" x1="391.673" y1="567.676" x2="3.997" y2="567.676"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="3,567.676 1,567.676 1,565.676 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4.0157,2.0078" x1="1" y1="563.668" x2="1" y2="118.935"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1,117.931 1,115.931 3,115.931 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3.9864,1.9932" x1="4.993" y1="115.931" x2="392.669" y2="115.931"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="393.666,115.931 395.666,115.931 
+			395.666,117.931 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4.0157,2.0078" x1="395.666" y1="119.938" x2="395.666" y2="564.672"/>
+	</g>
+</g>
+<rect x="204.9" y="128.568" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="177.943" height="50.834"/>
+<rect x="210.504" y="150.324" fill="none" width="167.142" height="10.215"/>
+<text transform="matrix(1 0 0 1 228.6157 157.5137)" font-family="'Swiss721BT-Light'" font-size="10">How do I make {drink name}?</text>
+<rect x="204.543" y="254.418" fill="#BCBEC0" stroke="#000000" stroke-miterlimit="10" width="177.943" height="49.033"/>
+<rect x="207.241" y="262.49" fill="none" width="173.261" height="34.326"/>
+<text transform="matrix(1 0 0 1 222.438 269.6797)"><tspan x="0" y="0" font-family="'Swiss721BT-Light'" font-size="10">A {drink name} is {ingredient 1}, </tspan><tspan x="-8.576" y="12" font-family="'Swiss721BT-Light'" font-size="10">{ingredient 2}, {etc.}. Would you like </tspan><tspan x="36.253" y="24" font-family="'Swiss721BT-Light'" font-size="10">the instructions?</tspan></text>
+<rect x="223.697" y="329.093" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="41.833" height="25.418"/>
+<rect x="226.03" y="336.86" fill="none" width="37.167" height="11.887"/>
+<text transform="matrix(1 0 0 1 238.3027 344.0488)" font-family="'Swiss721BT-Light'" font-size="10">No</text>
+<rect x="320.789" y="329.093" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="41.833" height="25.418"/>
+<rect x="323.122" y="336.86" fill="none" width="37.167" height="11.887"/>
+<text transform="matrix(1 0 0 1 333.7998 344.0488)" font-family="'Swiss721BT-Light'" font-size="10">Yes</text>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="341.706" y1="303.451" x2="341.706" y2="327.891"/>
+		<g>
+			<path d="M336.675,321.479c0-0.165,0.082-0.326,0.231-0.422c0.232-0.148,0.542-0.08,0.69,0.152l4.109,6.453l4.109-6.453
+				c0.148-0.232,0.458-0.301,0.69-0.152s0.3,0.459,0.153,0.689l-4.531,7.115c-0.092,0.145-0.251,0.231-0.422,0.231
+				s-0.33-0.087-0.422-0.231l-4.531-7.115C336.7,321.664,336.675,321.57,336.675,321.479
+				C336.675,321.313,336.675,321.57,336.675,321.479z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="293.515" y1="179.8" x2="293.515" y2="252.374"/>
+		<g>
+			<path d="M288.483,245.962c0-0.165,0.082-0.327,0.231-0.423c0.232-0.148,0.542-0.079,0.69,0.154l4.109,6.452l4.109-6.452
+				c0.148-0.233,0.458-0.303,0.69-0.154s0.3,0.46,0.153,0.691l-4.531,7.114c-0.092,0.144-0.251,0.231-0.422,0.231
+				s-0.33-0.088-0.422-0.231l-4.531-7.114C288.509,246.146,288.483,246.054,288.483,245.962
+				C288.483,245.797,288.483,246.054,288.483,245.962z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="341.706" y1="354.399" x2="341.706" y2="378.837"/>
+		<g>
+			<path d="M336.675,372.425c0-0.165,0.082-0.327,0.231-0.423c0.232-0.148,0.542-0.079,0.69,0.154l4.109,6.452l4.109-6.452
+				c0.148-0.233,0.458-0.303,0.69-0.154s0.3,0.46,0.153,0.691l-4.531,7.114c-0.092,0.144-0.251,0.231-0.422,0.231
+				s-0.33-0.088-0.422-0.231l-4.531-7.114C336.7,372.609,336.675,372.517,336.675,372.425
+				C336.675,372.26,336.675,372.517,336.675,372.425z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="244.198" y1="303.564" x2="244.198" y2="328.004"/>
+		<g>
+			<path d="M239.167,321.592c0-0.165,0.082-0.326,0.231-0.422c0.232-0.148,0.542-0.08,0.69,0.152l4.109,6.453l4.109-6.453
+				c0.148-0.232,0.458-0.301,0.69-0.152s0.3,0.459,0.153,0.689l-4.531,7.115c-0.092,0.145-0.251,0.231-0.422,0.231
+				s-0.33-0.087-0.422-0.231l-4.531-7.115C239.192,321.777,239.167,321.684,239.167,321.592
+				C239.167,321.427,239.167,321.684,239.167,321.592z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="342.188" y1="430.424" x2="342.188" y2="454.864"/>
+		<g>
+			<path d="M337.157,448.452c0-0.165,0.082-0.327,0.231-0.423c0.232-0.148,0.542-0.079,0.69,0.154l4.109,6.452l4.109-6.452
+				c0.148-0.233,0.458-0.303,0.69-0.154s0.3,0.46,0.153,0.691l-4.531,7.114c-0.092,0.144-0.251,0.231-0.422,0.231
+				s-0.33-0.088-0.422-0.231l-4.531-7.114C337.183,448.637,337.157,448.544,337.157,448.452
+				C337.157,448.287,337.157,448.544,337.157,448.452z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="342.188" y1="481.482" x2="342.188" y2="515.856"/>
+		<g>
+			<path d="M337.157,509.444c0-0.165,0.082-0.327,0.231-0.423c0.232-0.148,0.542-0.079,0.69,0.154l4.109,6.452l4.109-6.452
+				c0.148-0.233,0.458-0.303,0.69-0.154s0.3,0.46,0.153,0.691l-4.531,7.114c-0.092,0.144-0.251,0.231-0.422,0.231
+				s-0.33-0.088-0.422-0.231l-4.531-7.114C337.183,509.629,337.157,509.536,337.157,509.444
+				C337.157,509.279,337.157,509.536,337.157,509.444z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="244.681" y1="430.537" x2="244.681" y2="454.978"/>
+		<g>
+			<path d="M239.649,448.565c0-0.165,0.082-0.327,0.231-0.423c0.232-0.148,0.542-0.079,0.69,0.154l4.109,6.452l4.109-6.452
+				c0.148-0.233,0.458-0.303,0.69-0.154s0.3,0.46,0.153,0.691l-4.531,7.114c-0.092,0.144-0.251,0.231-0.422,0.231
+				s-0.33-0.088-0.422-0.231l-4.531-7.114C239.675,448.75,239.649,448.657,239.649,448.565
+				C239.649,448.4,239.649,448.657,239.649,448.565z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="244.681" y1="480.064" x2="244.681" y2="504.503"/>
+		<g>
+			<path d="M239.649,498.091c0-0.165,0.082-0.327,0.231-0.423c0.232-0.148,0.542-0.079,0.69,0.154l4.109,6.452l4.109-6.452
+				c0.148-0.233,0.458-0.303,0.69-0.154s0.3,0.46,0.153,0.691l-4.531,7.114c-0.092,0.144-0.251,0.231-0.422,0.231
+				s-0.33-0.088-0.422-0.231l-4.531-7.114C239.675,498.275,239.649,498.183,239.649,498.091
+				C239.649,497.926,239.649,498.183,239.649,498.091z"/>
+		</g>
+	</g>
+</g>
+<rect x="203.976" y="379.797" fill="#BCBEC0" stroke="#000000" stroke-miterlimit="10" width="179.333" height="50.627"/>
+<rect x="203.976" y="382.801" fill="none" width="176.663" height="47.736"/>
+<text transform="matrix(1 0 0 1 208.6401 389.9922)"><tspan x="0" y="0" font-family="'Swiss721BT-Light'" font-size="10">The instructions for a {drink name} are </tspan><tspan x="50.195" y="12" font-family="'Swiss721BT-Light'" font-size="10">{instuctions...}. </tspan><tspan x="9.349" y="24" font-family="'Swiss721BT-Light'" font-size="10">You can also check the Alexa app.</tspan><tspan x="17.454" y="36" font-family="'Swiss721BT-Light'" font-size="10">Would you like another recipe?</tspan></text>
+<rect x="203.976" y="505.705" fill="#BCBEC0" stroke="#000000" stroke-miterlimit="10" width="82.614" height="50.014"/>
+<rect x="203.976" y="520.887" fill="none" width="83.202" height="23.662"/>
+<text transform="matrix(1 0 0 1 206.124 528.0781)"><tspan x="0" y="0" font-family="'Swiss721BT-Light'" font-size="10">Which drink would </tspan><tspan x="1.986" y="12" font-family="'Swiss721BT-Light'" font-size="10">you like to make?</tspan></text>
+<g>
+	<g>
+		<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="203.976,532.719 53.773,532.719 53.773,276.65 
+			202.773,276.65 		"/>
+		<g>
+			<path d="M196.361,281.682c-0.165,0-0.327-0.082-0.422-0.231c-0.148-0.232-0.08-0.542,0.153-0.69l6.453-4.109l-6.453-4.109
+				c-0.233-0.148-0.302-0.458-0.153-0.69s0.459-0.3,0.69-0.153l7.115,4.531c0.144,0.092,0.231,0.251,0.231,0.422
+				s-0.087,0.33-0.231,0.422l-7.115,4.531C196.546,281.656,196.453,281.682,196.361,281.682
+				C196.196,281.682,196.453,281.682,196.361,281.682z"/>
+		</g>
+	</g>
+</g>
+<rect x="12.643" y="379.797" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="83.328" height="50.254"/>
+<rect x="16.581" y="400.844" fill="none" width="74.945" height="14.988"/>
+<text transform="matrix(1 0 0 1 24.3628 408.0342)" font-family="'Swiss721BT-Light'" font-size="10">{Drink name}</text>
+<rect x="224.18" y="456.066" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="41.833" height="25.416"/>
+<rect x="226.513" y="463.832" fill="none" width="37.167" height="11.887"/>
+<text transform="matrix(1 0 0 1 237.1904 471.0215)" font-family="'Swiss721BT-Light'" font-size="10">Yes</text>
+<rect x="321.271" y="456.066" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="41.833" height="25.416"/>
+<rect x="323.604" y="463.832" fill="none" width="37.167" height="11.887"/>
+<text transform="matrix(1 0 0 1 335.877 471.0215)" font-family="'Swiss721BT-Light'" font-size="10">No</text>
+<rect x="127.801" y="392.402" fill="#414042" stroke="#000000" stroke-miterlimit="10" width="41.833" height="25.416"/>
+<rect x="130.134" y="400.168" fill="none" width="37.167" height="11.887"/>
+<text transform="matrix(1 0 0 1 138.9131 407.3594)" fill="#FFFFFF" font-family="'Swiss721BT-Light'" font-size="10">EXIT</text>
+<rect x="321.271" y="518.004" fill="#414042" stroke="#000000" stroke-miterlimit="10" width="41.833" height="25.416"/>
+<rect x="323.604" y="525.77" fill="none" width="37.167" height="11.887"/>
+<text transform="matrix(1 0 0 1 332.3838 532.9609)" fill="#FFFFFF" font-family="'Swiss721BT-Light'" font-size="10">EXIT</text>
+<g>
+	<g>
+		<polyline fill="none" stroke="#000000" stroke-miterlimit="10" points="223.697,341.802 150.143,341.802 150.143,389.804 		"/>
+		<g>
+			<path d="M145.111,383.392c0-0.165,0.082-0.327,0.231-0.423c0.232-0.148,0.542-0.079,0.69,0.154l4.109,6.452l4.109-6.452
+				c0.148-0.233,0.458-0.303,0.69-0.154s0.3,0.46,0.153,0.691l-4.531,7.114c-0.092,0.144-0.251,0.231-0.422,0.231
+				s-0.33-0.088-0.422-0.231l-4.531-7.114C145.137,383.576,145.111,383.483,145.111,383.392
+				C145.111,383.227,145.111,383.483,145.111,383.392z"/>
+		</g>
+	</g>
+</g>
+<circle fill="#ED1C24" cx="216.837" cy="108.195" r="4.5"/>
+<rect x="171.726" y="103.695" fill="none" width="223.724" height="12.336"/>
+<text transform="matrix(1 0 0 1 223.5068 112.3232)" font-family="'Swiss721BT-Bold'" font-size="12">GET INGREDIENTS + RECIPE</text>
+<g opacity="0.5">
+	<rect x="548.943" y="14.236" fill="#00A651" width="202.834" height="263.683"/>
+	<g>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="751.777,275.919 751.777,277.919 
+			749.777,277.919 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3.9767,1.9883" x1="747.789" y1="277.919" x2="551.938" y2="277.919"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="550.943,277.919 548.943,277.919 
+			548.943,275.919 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3.9951,1.9976" x1="548.943" y1="273.922" x2="548.943" y2="17.235"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="548.943,16.236 548.943,14.236 
+			550.943,14.236 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3.9767,1.9883" x1="552.932" y1="14.236" x2="748.783" y2="14.236"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="749.777,14.236 751.777,14.236 
+			751.777,16.236 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3.9951,1.9976" x1="751.777" y1="18.234" x2="751.777" y2="274.92"/>
+	</g>
+</g>
+<rect x="560.958" y="26.564" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="178.819" height="50.178"/>
+<rect x="569.405" y="39.066" fill="none" width="161.926" height="28.518"/>
+<text transform="matrix(1 0 0 1 584.1479 46.2559)"><tspan x="0" y="0" font-family="'Swiss721BT-Light'" font-size="10">What cocktails can I make with </tspan><tspan x="-7.881" y="12" font-family="'Swiss721BT-Light'" font-size="10">{ingredient 1}, {ingredient 2}, etc.</tspan></text>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="650.368" y1="77.287" x2="650.368" y2="88.085"/>
+		<g>
+			<path d="M645.337,81.673c0-0.165,0.082-0.327,0.231-0.423c0.232-0.148,0.542-0.079,0.69,0.154l4.109,6.452l4.109-6.452
+				c0.148-0.233,0.458-0.303,0.69-0.154s0.3,0.46,0.153,0.691l-4.531,7.114c-0.092,0.144-0.251,0.231-0.422,0.231
+				s-0.33-0.088-0.422-0.231l-4.531-7.114C645.362,81.857,645.337,81.765,645.337,81.673
+				C645.337,81.508,645.337,81.765,645.337,81.673z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="602.276" y1="202.953" x2="602.276" y2="213.751"/>
+		<g>
+			<path d="M597.245,207.339c0-0.165,0.082-0.327,0.231-0.423c0.232-0.148,0.542-0.079,0.69,0.154l4.109,6.452l4.109-6.452
+				c0.148-0.233,0.458-0.303,0.69-0.154s0.3,0.46,0.153,0.691l-4.531,7.114c-0.092,0.144-0.251,0.231-0.422,0.231
+				s-0.33-0.088-0.422-0.231l-4.531-7.114C597.271,207.523,597.245,207.431,597.245,207.339
+				C597.245,207.174,597.245,207.431,597.245,207.339z"/>
+		</g>
+	</g>
+</g>
+<rect x="561.515" y="89.287" fill="#BCBEC0" stroke="#000000" stroke-miterlimit="10" width="178.263" height="113.666"/>
+<rect x="565.202" y="116.787" fill="none" width="169.816" height="58.665"/>
+<text transform="matrix(1 0 0 1 573.0884 123.9775)"><tspan x="0" y="0" font-family="'Swiss721BT-Light'" font-size="10">You can make {drink name}, {drink </tspan><tspan x="-4.592" y="12" font-family="'Swiss721BT-Light'" font-size="10">name}, etc. Say the name of the drink </tspan><tspan x="4.751" y="24" font-family="'Swiss721BT-Light'" font-size="10">you’d like to make. Or I can share </tspan><tspan x="-5.278" y="36" font-family="'Swiss721BT-Light'" font-size="10">additional ingredients that would allow </tspan><tspan x="11.177" y="48" font-family="'Swiss721BT-Light'" font-size="10">you to make {alt drink names}</tspan></text>
+<rect x="561.083" y="214.953" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="83.027" height="50.834"/>
+<rect x="571.466" y="235.376" fill="none" width="62.262" height="11.991"/>
+<text transform="matrix(1 0 0 1 572.0806 242.5664)" font-family="'Swiss721BT-Light'" font-size="10">{Drink Name}</text>
+<rect x="548.898" y="1.686" fill="none" width="202.879" height="12.336"/>
+<text transform="matrix(1 0 0 1 613.9473 10.3135)" font-family="'Swiss721BT-Bold'" font-size="12">GET POSSIBLE DRINKS</text>
+<circle fill="#00A651" cx="604.525" cy="6.186" r="4.5"/>
+<g opacity="0.5">
+	<rect x="902.193" y="21.823" fill="#00AEEF" width="298.75" height="640.062"/>
+	<g>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1200.943,659.885 1200.943,661.885 
+			1198.943,661.885 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3.9831,1.9916" x1="1196.952" y1="661.885" x2="905.189" y2="661.885"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="904.193,661.885 902.193,661.885 
+			902.193,659.885 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3.9878,1.9939" x1="902.193" y1="657.891" x2="902.193" y2="24.82"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="902.193,23.823 902.193,21.823 
+			904.193,21.823 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3.9831,1.9916" x1="906.185" y1="21.823" x2="1197.947" y2="21.823"/>
+		<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1198.943,21.823 1200.943,21.823 
+			1200.943,23.823 		"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3.9878,1.9939" x1="1200.943" y1="25.817" x2="1200.943" y2="658.888"/>
+	</g>
+</g>
+<rect x="899.219" y="9.486" fill="none" width="301.725" height="12.336"/>
+<text transform="matrix(1 0 0 1 909.1582 18.1133)" font-family="'Swiss721BT-Bold'" font-size="12">GET POSSIBLE DRINKS WITH + &lt;2 INGREDIENTS</text>
+<circle fill="#00AEEF" cx="899.107" cy="13.986" r="4.5"/>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1050.777" y1="273.177" x2="1050.777" y2="283.975"/>
+		<g>
+			<path d="M1045.746,277.562c0-0.165,0.082-0.326,0.231-0.422c0.232-0.148,0.542-0.08,0.69,0.152l4.109,6.453l4.109-6.453
+				c0.148-0.232,0.458-0.301,0.69-0.152s0.3,0.459,0.153,0.689l-4.531,7.115c-0.092,0.145-0.251,0.231-0.422,0.231
+				s-0.33-0.087-0.422-0.231l-4.531-7.115C1045.771,277.748,1045.746,277.654,1045.746,277.562
+				C1045.746,277.397,1045.746,277.654,1045.746,277.562z"/>
+		</g>
+	</g>
+</g>
+<rect x="1009.609" y="285.696" fill="#BCBEC0" stroke="#000000" stroke-miterlimit="10" width="179.383" height="113.666"/>
+<rect x="1014.211" y="299.091" fill="none" width="170.229" height="84.861"/>
+<text transform="matrix(1 0 0 1 1022.3076 306.2793)"><tspan x="0" y="0" font-family="'Swiss721BT-Light'" font-size="10">You can make {drink name}, {drink </tspan><tspan x="-3.293" y="12" font-family="'Swiss721BT-Light'" font-size="10">name}, etc. if you buy {ingredient}. If </tspan><tspan x="-5.207" y="24" font-family="'Swiss721BT-Light'" font-size="10">you buy {ingredient} and {ingredient} </tspan><tspan x="4.6" y="36" font-family="'Swiss721BT-Light'" font-size="10">you can also make {drink name}, </tspan><tspan x="-0.812" y="48" font-family="'Swiss721BT-Light'" font-size="10">{drink name}, etc. Would you like to </tspan><tspan x="-7.674" y="60" font-family="'Swiss721BT-Light'" font-size="10">purchase additional ingredients via one </tspan><tspan x="42.944" y="72" font-family="'Swiss721BT-Light'" font-size="10">of our partners?</tspan></text>
+<rect x="1009.492" y="536.981" fill="#BCBEC0" stroke="#000000" stroke-miterlimit="10" width="83.834" height="50.604"/>
+<rect x="1011.691" y="541.079" fill="none" width="79.322" height="43.562"/>
+<text transform="matrix(1 0 0 1 1016.3291 548.2686)"><tspan x="0" y="0" font-family="'Swiss721BT-Light'" font-size="10">Great! Authorize </tspan><tspan x="9.819" y="12" font-family="'Swiss721BT-Light'" font-size="10">via the app. </tspan><tspan x="-4.354" y="24" font-family="'Swiss721BT-Light'" font-size="10">Would you like the </tspan><tspan x="7.886" y="36" font-family="'Swiss721BT-Light'" font-size="10">instructions?</tspan></text>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1147.871" y1="399.36" x2="1147.871" y2="423.801"/>
+		<g>
+			<path d="M1142.84,417.389c0-0.165,0.082-0.326,0.231-0.422c0.232-0.148,0.542-0.08,0.69,0.152l4.109,6.453l4.109-6.453
+				c0.148-0.232,0.458-0.301,0.69-0.152s0.3,0.459,0.153,0.689l-4.531,7.115c-0.092,0.145-0.251,0.231-0.422,0.231
+				s-0.33-0.087-0.422-0.231l-4.531-7.115C1142.865,417.574,1142.84,417.48,1142.84,417.389
+				C1142.84,417.224,1142.84,417.48,1142.84,417.389z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1050.363" y1="399.474" x2="1050.363" y2="423.914"/>
+		<g>
+			<path d="M1045.332,417.502c0-0.165,0.082-0.326,0.231-0.422c0.232-0.148,0.542-0.08,0.69,0.152l4.109,6.453l4.109-6.453
+				c0.148-0.232,0.458-0.301,0.69-0.152s0.3,0.459,0.153,0.689l-4.531,7.115c-0.092,0.145-0.251,0.231-0.422,0.231
+				s-0.33-0.087-0.422-0.231l-4.531-7.115C1045.357,417.688,1045.332,417.594,1045.332,417.502
+				C1045.332,417.337,1045.332,417.594,1045.332,417.502z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1050.363" y1="447.198" x2="1050.363" y2="536.598"/>
+		<g>
+			<path d="M1045.332,530.186c0-0.165,0.082-0.326,0.231-0.422c0.232-0.148,0.542-0.08,0.69,0.152l4.109,6.453l4.109-6.453
+				c0.148-0.232,0.458-0.301,0.69-0.152s0.3,0.459,0.153,0.689l-4.531,7.115c-0.092,0.145-0.251,0.231-0.422,0.231
+				s-0.33-0.087-0.422-0.231l-4.531-7.115C1045.357,530.371,1045.332,530.277,1045.332,530.186
+				C1045.332,530.021,1045.332,530.277,1045.332,530.186z"/>
+		</g>
+	</g>
+</g>
+<rect x="1029.863" y="425.003" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="41.832" height="25.416"/>
+<rect x="1032.195" y="432.769" fill="none" width="37.168" height="11.887"/>
+<text transform="matrix(1 0 0 1 1042.877 439.958)" font-family="'Swiss721BT-Light'" font-size="10">Yes</text>
+<rect x="1126.955" y="425.003" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="41.832" height="25.416"/>
+<rect x="1129.287" y="432.769" fill="none" width="37.168" height="11.887"/>
+<text transform="matrix(1 0 0 1 1141.5645 439.958)" font-family="'Swiss721BT-Light'" font-size="10">No</text>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1147.16" y1="450.538" x2="1147.16" y2="484.91"/>
+		<g>
+			<path d="M1142.129,478.498c0-0.165,0.082-0.326,0.231-0.422c0.232-0.148,0.542-0.08,0.69,0.152l4.109,6.453l4.109-6.453
+				c0.148-0.232,0.458-0.301,0.69-0.152s0.3,0.459,0.153,0.689l-4.531,7.115c-0.092,0.145-0.251,0.231-0.422,0.231
+				s-0.33-0.087-0.422-0.231l-4.531-7.115C1142.154,478.684,1142.129,478.59,1142.129,478.498
+				C1142.129,478.333,1142.129,478.59,1142.129,478.498z"/>
+		</g>
+	</g>
+</g>
+<rect x="1126.242" y="487.06" fill="#414042" stroke="#000000" stroke-miterlimit="10" width="41.834" height="25.416"/>
+<rect x="1128.576" y="494.825" fill="none" width="37.166" height="11.887"/>
+<text transform="matrix(1 0 0 1 1137.3594 502.0146)" fill="#FFFFFF" font-family="'Swiss721BT-Light'" font-size="10">EXIT</text>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1093.158" y1="563.61" x2="1125.04" y2="563.61"/>
+		<g>
+			<path d="M1118.628,568.642c-0.165,0-0.327-0.082-0.423-0.231c-0.148-0.232-0.079-0.542,0.154-0.69l6.452-4.109l-6.452-4.109
+				c-0.233-0.148-0.303-0.458-0.154-0.69s0.46-0.3,0.691-0.153l7.114,4.531c0.144,0.092,0.231,0.251,0.231,0.422
+				s-0.088,0.33-0.231,0.422l-7.114,4.531C1118.812,568.616,1118.72,568.642,1118.628,568.642
+				C1118.463,568.642,1118.72,568.642,1118.628,568.642z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1050.363" y1="587.698" x2="1050.363" y2="612.137"/>
+		<g>
+			<path d="M1045.332,605.725c0-0.165,0.082-0.326,0.231-0.422c0.232-0.148,0.542-0.08,0.69,0.152l4.109,6.453l4.109-6.453
+				c0.148-0.232,0.458-0.301,0.69-0.152s0.3,0.459,0.153,0.689l-4.531,7.115c-0.092,0.145-0.251,0.231-0.422,0.231
+				s-0.33-0.087-0.422-0.231l-4.531-7.115C1045.357,605.91,1045.332,605.816,1045.332,605.725
+				C1045.332,605.56,1045.332,605.816,1045.332,605.725z"/>
+		</g>
+	</g>
+</g>
+<rect x="1029.863" y="613.226" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="41.832" height="25.416"/>
+<rect x="1032.195" y="620.991" fill="none" width="37.168" height="11.887"/>
+<text transform="matrix(1 0 0 1 1042.877 628.1816)" font-family="'Swiss721BT-Light'" font-size="10">Yes</text>
+<rect x="1126.955" y="550.44" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="41.832" height="25.416"/>
+<rect x="1129.287" y="558.206" fill="none" width="37.168" height="11.887"/>
+<text transform="matrix(1 0 0 1 1141.5645 565.3965)" font-family="'Swiss721BT-Light'" font-size="10">No</text>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1147.16" y1="575.976" x2="1147.16" y2="610.35"/>
+		<g>
+			<path d="M1142.129,603.938c0-0.165,0.082-0.326,0.231-0.422c0.232-0.148,0.542-0.08,0.69,0.152l4.109,6.453l4.109-6.453
+				c0.148-0.232,0.458-0.301,0.69-0.152s0.3,0.459,0.153,0.689l-4.531,7.115c-0.092,0.145-0.251,0.231-0.422,0.231
+				s-0.33-0.087-0.422-0.231l-4.531-7.115C1142.154,604.123,1142.129,604.029,1142.129,603.938
+				C1142.129,603.772,1142.129,604.029,1142.129,603.938z"/>
+		</g>
+	</g>
+</g>
+<rect x="1126.242" y="612.497" fill="#414042" stroke="#000000" stroke-miterlimit="10" width="41.834" height="25.416"/>
+<rect x="1128.576" y="620.263" fill="none" width="37.166" height="11.887"/>
+<text transform="matrix(1 0 0 1 1137.3594 627.4531)" fill="#FFFFFF" font-family="'Swiss721BT-Light'" font-size="10">EXIT</text>
+<rect x="914.208" y="34.15" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="178.819" height="50.178"/>
+<rect x="922.654" y="46.651" fill="none" width="161.926" height="28.52"/>
+<text transform="matrix(1 0 0 1 937.4023 53.8418)"><tspan x="0" y="0" font-family="'Swiss721BT-Light'" font-size="10">What cocktails can I make with </tspan><tspan x="-7.881" y="12" font-family="'Swiss721BT-Light'" font-size="10">{ingredient 1}, {ingredient 2}, etc.</tspan></text>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1003.617" y1="84.872" x2="1003.617" y2="95.671"/>
+		<g>
+			<path d="M998.586,89.259c0-0.165,0.082-0.327,0.231-0.423c0.232-0.148,0.542-0.079,0.69,0.154l4.109,6.452l4.109-6.452
+				c0.148-0.233,0.458-0.303,0.69-0.154s0.3,0.46,0.153,0.691l-4.531,7.114c-0.092,0.144-0.251,0.231-0.422,0.231
+				s-0.33-0.088-0.422-0.231l-4.531-7.114C998.611,89.443,998.586,89.351,998.586,89.259
+				C998.586,89.094,998.586,89.351,998.586,89.259z"/>
+		</g>
+	</g>
+</g>
+<rect x="914.765" y="96.872" fill="#BCBEC0" stroke="#000000" stroke-miterlimit="10" width="178.263" height="113.667"/>
+<rect x="918.451" y="124.374" fill="none" width="169.816" height="58.664"/>
+<text transform="matrix(1 0 0 1 926.3428 131.5635)"><tspan x="0" y="0" font-family="'Swiss721BT-Light'" font-size="10">You can make {drink name}, {drink </tspan><tspan x="-4.592" y="12" font-family="'Swiss721BT-Light'" font-size="10">name}, etc. Say the name of the drink </tspan><tspan x="4.751" y="24" font-family="'Swiss721BT-Light'" font-size="10">you’d like to make. Or I can share </tspan><tspan x="-5.278" y="36" font-family="'Swiss721BT-Light'" font-size="10">additional ingredients that would allow </tspan><tspan x="11.177" y="48" font-family="'Swiss721BT-Light'" font-size="10">you to make {alt drink names}</tspan></text>
+<rect x="1009.693" y="221.915" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="83.666" height="51.545"/>
+<rect x="1009.525" y="244.937" fill="none" width="83.834" height="11.992"/>
+<text transform="matrix(1 0 0 1 1014.0371 252.127)" font-family="'Swiss721BT-Light'" font-size="10">Other Ingredients</text>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1051.443" y1="210.843" x2="1051.443" y2="221.641"/>
+		<g>
+			<path d="M1046.412,215.229c0-0.165,0.082-0.326,0.231-0.422c0.232-0.148,0.542-0.08,0.69,0.152l4.109,6.453l4.109-6.453
+				c0.148-0.232,0.458-0.301,0.69-0.152s0.3,0.459,0.153,0.689l-4.531,7.115c-0.092,0.145-0.251,0.231-0.422,0.231
+				s-0.33-0.087-0.422-0.231l-4.531-7.115C1046.438,215.414,1046.412,215.32,1046.412,215.229
+				C1046.412,215.063,1046.412,215.32,1046.412,215.229z"/>
+		</g>
+	</g>
+</g>
+</svg>
