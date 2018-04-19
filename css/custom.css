@@ -34,6 +34,15 @@ ol{
     margin-right: auto;
 }
 
+.animated {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+
+
 /*Responsive Images*/
 .img-fluid {
     max-width: 100%;
@@ -263,6 +272,13 @@ body {
     letter-spacing: .5px;
 }
 
+/*Typed JS Loading In*/
+/*#type-load{
+    animation-duration: 1.5s;
+    -webkit-animation-name: bounceInDown;
+    animation-name: bounceInDown;
+}*/
+
 /*Typed.JS Styles*/
 #typed{
     border-bottom-style: solid;
@@ -375,18 +391,72 @@ body {
     letter-spacing: normal;
 }
 
-/*Delayed fadeInUp 1*/
-.fadeInUp2 {
-    animation-name: fadeInUp;
-    animation-delay: .25s;
-}
+/*Fade In for Med to Lg Screens
+@media (min-width: 768px) {
+    .oh-hello {
+        -webkit-animation-name: fadeInUp;
+        animation-name: fadeInUp;
+    }
+    .oh-hello:nth-of-type(2) {
+        animation-delay: .25s;
+        -webkit-animation-name: fadeInUp;
+        animation-name: fadeInUp;
+    }
+    .oh-hello:nth-of-type(3) {
+        animation-delay: .5s;
+        -webkit-animation-name: fadeInUp;
+        animation-name: fadeInUp;
+    }
+    .oh-hello:nth-of-type(4) {
+        -webkit-animation-name: fadeInUp;
+        animation-name: fadeInUp;
+    }
+    .oh-hello:nth-of-type(5) {
+        animation-delay: .25s;
+        -webkit-animation-name: fadeInUp;
+        animation-name: fadeInUp;
+    }
+    .oh-hello:nth-of-type(6) {
+        animation-delay: .5s;
+        -webkit-animation-name: fadeInUp;
+        animation-name: fadeInUp;
+    }
+    .oh-hello:nth-of-type(7) {
+        -webkit-animation-name: fadeInUp;
+        animation-name: fadeInUp;
+    }
+    .oh-hello:nth-of-type(8) {
+        animation-delay: .25s;
+        -webkit-animation-name: fadeInUp;
+        animation-name: fadeInUp;
+    }
+    .oh-hello:nth-of-type(9) {
+        animation-delay: .5s;
+        -webkit-animation-name: fadeInUp;
+        animation-name: fadeInUp;
+    }
+}*/
 
-/*Delayed fadeInUp*/
+/*Sm Screen Fade in
+@media (min-width: 576px) and (max-width:767px){
+    .oh-hello {
+        -webkit-animation-name: fadeInUp;
+        animation-name: fadeInUp;
+    }
+    .oh-hello:nth-of-type(even) {
+        animation-delay: .25s;
+        -webkit-animation-name: fadeInUp;
+        animation-name: fadeInUp;
+    }
+}*/
 
-.fadeInUp3 {
-    animation-name: fadeInUp;
-    animation-delay: .5s; 
-}
+/*Tiny Screen (phone) Fade In 
+@media (max-width:575px) {
+    .oh-hello{
+        -webkit-animation-name: fadeInUp;
+        animation-name: fadeInUp;
+    }
+}*/
 
 /*Project Page*/
 .nav-header-container-fixed{
