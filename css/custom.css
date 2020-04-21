@@ -102,6 +102,10 @@ body {
     cursor: pointer;
 }
 
+.button_container.active {
+    background: transparent;
+}
+
 .button_container.active .top {
     -webkit-transform: translateY(7px) translateX(0) rotate(45deg);
     transform: translateY(7px) translateX(0) rotate(45deg);
@@ -115,11 +119,6 @@ body {
     -webkit-transform: translateY(-7px) translateX(0) rotate(-45deg);
     transform: translateY(-7px) translateX(0) rotate(-45deg);
     background: #fff;
-}
-
-.button_container.active:hover{
-    background:transparent;
-    opacity: .6;
 }
 
 .button_container span {

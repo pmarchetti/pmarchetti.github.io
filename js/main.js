@@ -6,7 +6,7 @@ $('#toggle').click(function() {
     
 //Typed.JS
 $(function(){$("#typed").typed({
-    strings: ["build product.", "design with empathy.", "drink coffee.", "think strategically.", "go for a run.", "make cool shit.", "play music.", "travel to new places.", "keep learning."],
+    strings: ["build products.", "talk to users.", "have a coffee.", "brainstorm new ideas.", "go for a run.", "craft a strategy.","hang out with my dog.", "grow."],
     // Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
     stringsElement: null,
     // typing speed
